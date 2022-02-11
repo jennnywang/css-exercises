@@ -6,16 +6,3 @@ div {
     text-align: center;
     font-weight: bold;
 }
-
-p {
-    /* green background, white text, 18px */
-    background-color: green;
-    color: white;
-    font-size: 18px;
-}
-
-button {
-    /* orange background, 18px */
-    background-color: orange;
-    font-size: 18px;
-}
