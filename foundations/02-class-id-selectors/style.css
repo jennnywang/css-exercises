@@ -1,4 +1,4 @@
-.simple {
+.odd {
     background-color: rgb(249, 156, 156);
     font-size: 32px;
     font-family: "Cambria", Verdana, DejaVu Sans, sans-serif;
@@ -7,4 +7,13 @@
 #specific {
     color: blue;
     font-size: 36px;
+}
+
+.odd.cool {
+    font-size: 24px;
+}
+
+#super {
+    background-color: rgb(159, 203, 159);
+    font-size: 24px;
 }
