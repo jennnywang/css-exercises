@@ -4,4 +4,7 @@
     color: white;
 }
 /* Second element: yellow background */
+.second {
+    background-color: yellow;
+}
 /* Both: font size 28px, list of fonts */
