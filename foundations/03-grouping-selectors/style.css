@@ -1,3 +1,7 @@
 /* First element: black background, white text */
+.first {
+    background-color: black;
+    color: white;
+}
 /* Second element: yellow background */
 /* Both: font size 28px, list of fonts */
